@@ -1,0 +1,11 @@
+{
+  "name": "module-2-assignment-es6-modern-javascript",
+  "version": "1.0.0",
+  "description": "IFT 458/598",
+  "main": "loan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hansika Jaryal",
+  "license": "ISC"
+}
